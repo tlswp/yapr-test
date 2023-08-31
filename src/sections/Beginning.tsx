@@ -13,11 +13,15 @@ const Beginning = () => {
           профессия. Свою первую HTML-страницу я написал только в конце второго
           курса. Это был сайт музея нашего техникума.
         </p>
-        <div className="mockup-browser border bg-base-300 w-fit max-w-[670px]">
+        <div className="mockup-browser border bg-base-300 w-full max-w-[670px]">
           <div className="mockup-browser-toolbar">
             <div className="input">https://mrmt.edu.ru</div>
           </div>
-          <img className="" alt="Сайт музея МРМТ" src="./images/museum.jpg" />
+          <img
+            className=" w-full max-w-[670px]"
+            alt="Сайт музея МРМТ"
+            src="./images/museum.jpg"
+          />
         </div>
 
         <p className="text-xl max-w-[64ch]">

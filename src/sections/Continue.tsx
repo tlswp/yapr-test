@@ -10,8 +10,8 @@ const Continue = () => {
           произошло много всего интересного, я успел пожить заграницей и
           поработать на 5 разных проектах, в том числе и иностранных.
         </p>
-        <div>
-          <div className="mockup-browser border bg-base-300 w-fit max-w-[800px]">
+        <div className="w-full grid">
+          <div className="mockup-browser border bg-base-300 w-full md:max-w-[800px]">
             <div className="mockup-browser-toolbar">
               <div className="input">https://nosis.io</div>
             </div>

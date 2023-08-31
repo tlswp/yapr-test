@@ -9,7 +9,7 @@ const Hero = () => {
   return (
     <div className="min-h-screen flex flex-col mt-56 lg:mt-0 lg:flex-row justify-center lg:justify-normal lg:items-center relative">
       <div className="grid gap-8">
-        <h1 className=" text-3xl md:text-5xl font-black">
+        <h1 className="text-3xl md:text-5xl font-black">
           У программиста нет цели,
           <br /> только путь
         </h1>
@@ -96,7 +96,7 @@ const Hero = () => {
           className="absolute transform w-24 h-24 -translate-x-20 translate-y-44 text-blue-600"
         >
           <circle cx="0" cy="0" r="2" fill="currentColor"></circle>
-          <g stroke="currentColor" stroke-width="1" fill="none">
+          <g stroke="currentColor" strokeWidth="1" fill="none">
             <ellipse rx="10" ry="4.5"></ellipse>
             <ellipse rx="10" ry="4.5" transform="rotate(60)"></ellipse>
             <ellipse rx="10" ry="4.5" transform="rotate(120)"></ellipse>
