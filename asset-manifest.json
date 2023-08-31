@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/yapr-test/static/css/main.4529b4b2.css",
-    "main.js": "/yapr-test/static/js/main.141f864f.js",
-    "static/js/787.bda9c23e.chunk.js": "/yapr-test/static/js/787.bda9c23e.chunk.js",
-    "index.html": "/yapr-test/index.html",
-    "main.4529b4b2.css.map": "/yapr-test/static/css/main.4529b4b2.css.map",
-    "main.141f864f.js.map": "/yapr-test/static/js/main.141f864f.js.map",
-    "787.bda9c23e.chunk.js.map": "/yapr-test/static/js/787.bda9c23e.chunk.js.map"
+    "main.css": "./static/css/main.df9e72b4.css",
+    "main.js": "./static/js/main.b7914f4f.js",
+    "static/js/787.bda9c23e.chunk.js": "./static/js/787.bda9c23e.chunk.js",
+    "index.html": "./index.html",
+    "main.df9e72b4.css.map": "./static/css/main.df9e72b4.css.map",
+    "main.b7914f4f.js.map": "./static/js/main.b7914f4f.js.map",
+    "787.bda9c23e.chunk.js.map": "./static/js/787.bda9c23e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4529b4b2.css",
-    "static/js/main.141f864f.js"
+    "static/css/main.df9e72b4.css",
+    "static/js/main.b7914f4f.js"
   ]
 }
