@@ -1,8 +1,4 @@
-import guidePreviewImage from '../images/guide-preview.png';
-
 const Guide = () => {
-  const openGuideSource = () =>
-    window.open('https://github.com/tlswp/yapr-test/tree/main/guide', '_blank');
   return (
     <div className="min-h-screen flex py-16">
       <div className="grid gap-8 items-start content-start">
@@ -16,7 +12,7 @@ const Guide = () => {
         </p>
         <div>
           <video
-            poster={guidePreviewImage}
+            poster="./images/guide-preview.png"
             className="max-w-[800px] w-full rounded-xl shadow cursor-pointer"
             controls
             src="./videos/cssGuide.mp4"

@@ -1,5 +1,3 @@
-import museumImage from '../images/museum.jpg';
-
 const Beginning = () => {
   return (
     <div className="flex py-16 ">
@@ -19,7 +17,7 @@ const Beginning = () => {
           <div className="mockup-browser-toolbar">
             <div className="input">https://mrmt.edu.ru</div>
           </div>
-          <img className="" alt="Сайт музея МРМТ" src={museumImage} />
+          <img className="" alt="Сайт музея МРМТ" src="./images/museum.jpg" />
         </div>
 
         <p className="text-xl max-w-[64ch]">
