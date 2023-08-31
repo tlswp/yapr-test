@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1381f54f.css",
+    "main.js": "/static/js/main.0d1a38e4.js",
+    "static/js/787.bda9c23e.chunk.js": "/static/js/787.bda9c23e.chunk.js",
+    "static/media/my-photo-2023.png": "/static/media/my-photo-2023.b1250594ca134ae12b53.png",
+    "static/media/my-photo-2017.png": "/static/media/my-photo-2017.c5f895855f6c4235c1ef.png",
+    "static/media/museum.jpg": "/static/media/museum.9c84944b711195362cb8.jpg",
+    "static/media/guide-preview.png": "/static/media/guide-preview.b039f9cd22154efb8224.png",
+    "index.html": "/index.html",
+    "main.1381f54f.css.map": "/static/css/main.1381f54f.css.map",
+    "main.0d1a38e4.js.map": "/static/js/main.0d1a38e4.js.map",
+    "787.bda9c23e.chunk.js.map": "/static/js/787.bda9c23e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1381f54f.css",
+    "static/js/main.0d1a38e4.js"
+  ]
+}
