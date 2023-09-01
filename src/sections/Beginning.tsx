@@ -20,7 +20,7 @@ const Beginning = () => {
           <img
             className=" w-full max-w-[670px]"
             alt="Сайт музея МРМТ"
-            src="./images/museum.jpg"
+            src="./images/museum-min.jpg"
           />
         </div>
 

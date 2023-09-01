@@ -45,7 +45,7 @@ const Hero = () => {
         <img
           alt="Я в 2017"
           className=" mask mask-squircle w-48 duration-200 transform -translate-y-4 -translate-x-1 -rotate-6 hover:scale-105"
-          src="./images/my-photo-2017.png"
+          src="./images/my-photo-2017-min.png"
           // src="https://sun9-59.userapi.com/impg/A5Ce62XZBYg4ZuB1KMZdOQniVzw-y42oedh57g/wiOyeWQbm30.jpg?size=2162x2160&quality=96&sign=42ced71dcbb20a83aabf68a4d17b319a&type=album"
         />
         {/* HTML logo */}
@@ -106,7 +106,7 @@ const Hero = () => {
         <img
           alt="Я сейчас"
           className="absolute bottom-0 mask mask-squircle w-48 duration-200 transform translate-y-28 translate-x-[94px] rotate-12 scale-125 hover:scale-[1.3]"
-          src="./images/my-photo-2023.png"
+          src="./images/my-photo-2023-min.png"
         />
       </div>
     </div>

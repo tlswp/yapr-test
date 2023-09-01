@@ -12,7 +12,7 @@ const Guide = () => {
         </p>
         <div>
           <video
-            poster="./images/guide-preview.png"
+            poster="./images/guide-preview-min.png"
             className="max-w-[800px] w-full rounded-xl shadow cursor-pointer"
             controls
             src="./videos/cssGuide.mp4"
